@@ -8,3 +8,11 @@ As a Computer Science student, I'm starting a 21-day challenge to strengthen my 
 ✅ Learn efficient approaches
 ✅ Share my progress publicly
 ✅ Improve my coding and interview preparation
+
+Daily Goal
+*Solve 1-2 problems
+*Showcase my consistency
+
+Tech Part
+*Language Used:Java
+*Platform:LeetCode and Codeforces
